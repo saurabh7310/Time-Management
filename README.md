@@ -5,3 +5,5 @@ Interface of the Excel Sheet
 ![](https://github.com/saurabh7310/Time-Management/blob/main/Time%20Management.png)
 
 ## How to Use
+  ### - Download this excel file.
+   
